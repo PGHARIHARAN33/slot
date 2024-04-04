@@ -98,7 +98,7 @@ Execute the program using runserver command.
         </tr>
     </table>
 <head>
-    <title>SLOT TIME TABLE - jeevanesh (23013802)</title>
+    <title>SLOT TIME TABLE - HARIHARAN P G</title>
     <style>
         table {
             border-collapse: collapse;
