@@ -24,10 +24,146 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SLOT TIME TABLE - HARIHARAN P G</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 5px auto;
+        }
 
+        th, td {
+            border: 1px solid Black;
+            text-align: center;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+<style>
+    .center-text {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <img src="c:\Users\SEC\OneDrive\Desktop\html\11.png" width="80%" height="250px">
+  <div class="center-text">
+    <p>SLOT TIME TABLE - HARIHARAN P G</p>
+  </div>
+    <table>
+        <tr>
+            <th colspan="1" bgcolor="Yellow">Day/Time</th>
+            <th colspan="1" bgcolor="Yellow">Monday</th>
+            <th colspan="1" bgcolor="Yellow">Tuesday</th>
+            <th colspan="1" bgcolor="Yellow">Wednesday</th>
+            <th colspan="1" bgcolor="Yellow">Thursday</th>
+            <th colspan="1" bgcolor="Yellow">Friday</th>
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="Yellow">8-10</th>
+            <th colspan="3" bgcolor="Cyan">FREE SLOT</th>
+            <th colspan="1" bgcolor="Cyan">PHY</th>
+            <th colspan="1" bgcolor="Cyan">CHE</th>
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="Yellow">10-12</th>
+            <th colspan="1" bgcolor="Cyan">GER</th>
+            <th colspan="1" bgcolor="Cyan">FREE SLOT</th>
+            <th colspan="1" bgcolor="Cyan">FWAD</th>
+            <th colspan="1" bgcolor="Cyan">FWAD</th>
+            <th colspan="1" bgcolor="Cyan">PHY</th>
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="Yellow">12-1</th>
+            <th colspan="5" bgcolor="Cyan">LUNCH</th>
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="Yellow">1-3</th>
+            <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
+            <th colspan="1" bgcolor="Cyan">MAT</th>
+            <th colspan="1" bgcolor="Cyan">MAT</th>
+            <th colspan="1" bgcolor="Cyan">SS</th>
+        </tr>
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="Yellow">3-5</th>
+            <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
+            <th colspan="1" bgcolor="Cyan">GER</th>
+            <th colspan="1" bgcolor="Cyan">CHE</th>
+            <th colspan="1" bgcolor="Cyan">FWAD</th>
+        </tr>
+    </table>
+<head>
+    <title>SLOT TIME TABLE - jeevanesh (23013802)</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 5px auto;
+        }
+
+        th, td {
+            border: 5px solid rgb(15, 16, 16);
+            text-align: center;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>Ś
+<style>
+    .center-text {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th colspan="1" bgcolor="White">S. No.</th>
+            <th colspan="1" bgcolor="White">Subject Code</th>
+            <th colspan="2" bgcolor="White">Subject Name</th>
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="White">1.</th>
+            <th colspan="1" bgcolor="White">19AI41</th>
+            <th colspan="2" bgcolor="White">Fundamentals of Web Application Development(FWAD)</th>
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="White">2.</th>
+            <th colspan="1" bgcolor="White">19EN612</th>
+            <th colspan="2" bgcolor="White">German Basic (GER)</th>        
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="White">3.</th>
+            <th colspan="1" bgcolor="White">19PH206</th>
+            <th colspan="2" bgcolor="White">Physics for Information Technology (PHY)</th> 
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="White">4.</th>
+            <th colspan="1" bgcolor="White">19CY205</th>
+            <th colspan="2" bgcolor="White">Principles of Chemistry in Engineering (CHE)</th> 
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="White">5.</th>
+            <th colspan="1" bgcolor="White">19MA201</th>
+            <th colspan="2" bgcolor="White">Calculus and Matrix Algebra (MAT)</th> 
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="White">6.</th>
+            <th colspan="1" bgcolor="White">19EY701</th>
+            <th colspan="2" bgcolor="White">Soft Skills (SS)</th> 
+        </tr>
+    </table>
+  </body>
+</html>
 
 ## OUTPUT
 
+![Screenshot 2024-04-04 143517](https://github.com/PGHARIHARAN33/slot/assets/123052484/01ebc284-9bad-4bf3-8fd4-360f95f5313e)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
